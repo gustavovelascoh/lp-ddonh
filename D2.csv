@@ -13,12 +13,8 @@ headline,cities,latitude,longitude,countrycode
 ",Trinidad,-14.83333,-64.9,BO
 "Zika Concerns are Spreading in Houston
 ",Houston,29.76328,-95.36327,US
-"Geneve Scientists Battle to Find Cure
-",,,,
 "The CDC in Atlanta is Growing Worried
 ",Atlanta,33.749,-84.38798,US
-"Zika Infested Monkeys in Sao Paulo
-",,,,
 "Brownsville teen contracts Zika virus
 ",Brownsville,25.82176,-80.24116,US
 "Mosquito control efforts in St. Louis take new tactics with Zika threat
@@ -33,12 +29,8 @@ headline,cities,latitude,longitude,countrycode
 ",Iloilo,10.69694,122.56444,PH
 "New Los Angeles Hairstyle goes Viral
 ",Los Angeles,34.05223,-118.24368,US
-"Louisiana Zika cases up to 26
-",,,,
 "Orlando volunteers aid Zika research
 ",Orlando,28.53834,-81.37924,US
-"Zika infects pregnant woman in Cebu
-",,,,
 "Chicago's First Zika Case Confirmed
 ",Chicago,41.85003,-87.65005,US
 "Tampa Bay Area Zika Case Count Climbs
@@ -93,10 +85,6 @@ headline,cities,latitude,longitude,countrycode
 ",Lima,-12.04318,-77.02824,PE
 "More people in Toronto are infected with Hepatitis E every year
 ",Toronto,43.70011,-79.4163,CA
-"18 new Zika Cases in Bogota
-",,,,
-"Spanish Flu Sighted in Antigua
-",,,,
 "Brisbane is infested with Meningitis
 ",Brisbane,-27.46794,153.02809,AU
 "Cholera outbreak in Dakar
@@ -125,10 +113,6 @@ headline,cities,latitude,longitude,countrycode
 ",Sarasota,27.33643,-82.53065,US
 "Lower Hospitalization in Entebbe after Rabies Vaccine becomes Mandatory
 ",Entebbe,0.05621,32.47949,UG
-"Carnival under threat in Rio De Janeiro due to Zika outbreak
-",Rio De Janeiro,,,
-"Second Zika Paitient in Brasilia
-",,,,
 "Jacksonville man hit by Zika
 ",Jacksonville,34.8662,-92.11015,US
 "Schools in Shenzhen Closed Due to Malaria Outbreak
@@ -145,14 +129,10 @@ headline,cities,latitude,longitude,countrycode
 ",Pune,18.51957,73.85535,IN
 "Hospitals in Hanoi fill up with Zika patients
 ",Hanoi,21.0245,105.84117,VN
-"Zika case reported in Oton
-",,,,
 "Authorities are Worried about  Spread  Bronchitis in Silver Spring
 ",Silver Spring,38.99067,-77.02609,US
 "Zika: Delhi for strict monitoring
 ",Delhi,28.65195,77.23149,IN
-"Hillsborough uses innovative trap against Zika 20 minutes ago
-",,,,
 "Belize City under threat from Zika
 ",Belize City,17.49952,-88.19756,BZ
 "Student sick in Campinas, Brazil
@@ -163,20 +143,14 @@ headline,cities,latitude,longitude,countrycode
 ",Rome,41.89193,12.51133,IT
 "Seoul confirms 14th Zika infection
 ",Seoul,37.566,126.9784,KR
-"Hepatitis B Vaccine is now Required in Quebec
-",,,,
 "Zika outbreak spreads to Mexico City
 ",Mexico City,19.42847,-99.12766,MX
 "Rochester authorities confirmed  spread  Dengue
 ",Rochester,51.38764,0.50546,GB
 "El Paso fighting Zika
 ",El Paso,31.75872,-106.48693,US
-"Visitor to Cucuta contracts Zika
-",,,,
 "Zika now spreading through Jakarta
 ",Jakarta,-6.21462,106.84513,ID
-"Maka City Experiences Influenza Outbreak
-",,,,
 "Salt Lake City tests new cure for Respiratory Syncytial Virus
 ",Salt,41.97489,2.79281,ES
 "Zika San Antonio Patient Speaks Out
@@ -229,10 +203,6 @@ headline,cities,latitude,longitude,countrycode
 ",Birmingham,52.48142,-1.89983,GB
 "Is Zika virus in Majuro?
 ",Majuro,7.08971,171.38027,MH
-"Spreading Zika ruining Cancun fun
-",,,,
-"Cancun hit by Outbreak  Party Fever!
-",,,,
 "HIV has Arrived in Fairfax
 ",Fairfax,38.84622,-77.30637,US
 "Spanish Flu Outbreak in Barcelona
@@ -277,8 +247,6 @@ headline,cities,latitude,longitude,countrycode
 ",Masaya,11.97444,-86.09417,NI
 "Spike  Pneumonia Cases in Springfield
 ",Springfield,39.80172,-89.64371,US
-"More Zika patients reported in Mcallen
-",Mcallen,,,
 "Zika case reported in Jupiter
 ",Jupiter,26.93422,-80.09421,US
 "Zika virus confirmed in Westchester
@@ -311,8 +279,6 @@ headline,cities,latitude,longitude,countrycode
 ",Athens,37.98376,23.72784,GR
 "Outbreak  Zika in Panama City
 ",Panama City,30.15946,-85.65983,US
-"West Nile Virus Outbreak in Saint Johns
-",,,,
 "Measles has not Left Brooklyn
 ",Brooklyn,40.6501,-73.94958,US
 "Escondido neighborhood to get sprayed for Zika virus
@@ -333,10 +299,6 @@ headline,cities,latitude,longitude,countrycode
 ",Montevideo,-34.90328,-56.18816,UY
 "Varicella Keeps Spreading in Detroit
 ",Detroit,42.33143,-83.04575,US
-"Arhus is infested with Bronchitis
-",,,,
-"Zika Troubles come to Niteroi
-",,,,
 "Zika cases in Singapore reach 393
 ",Singapore,1.28967,103.85007,SG
 "Manhattan Residents Recieve HIV vaccine
@@ -397,8 +359,6 @@ headline,cities,latitude,longitude,countrycode
 ",Mandalay,21.97473,96.08359,MM
 "HIV Keeps Spreading in Boulder
 ",Boulder,40.01499,-105.27055,US
-"More Zika patients reported in Joao Pessoa
-",,,,
 "Will Tuberculosis vaccine help Rockville?
 ",Rockville,39.084,-77.15276,US
 "Mad Cow Disease Re-emerges in Chatham
@@ -465,10 +425,6 @@ headline,cities,latitude,longitude,countrycode
 ",Birmingham,52.48142,-1.89983,GB
 "How to Avoid Hepatitis B in Waldorf
 ",Waldorf,38.62456,-76.93914,US
-"More people in Mclean are infected with Hepatitis A every year
-",Mclean,,,
-"Malaria Exposure in Sussex
-",,,,
 "Tuberculosis Outbreak in Newark
 ",Newark,39.68372,-75.74966,US
 "Zika Virus Sparks 'International Concern'
@@ -495,16 +451,12 @@ headline,cities,latitude,longitude,countrycode
 ",Ljubljana,46.05108,14.50513,SI
 "Bronchitis re-emerges in Tehran
 ",Tehran,35.69439,51.42151,IR
-"Greenwich Establishes Zika Task Force
-",,,,
 "Mad Cow case in Murcia
 ",Murcia,37.98704,-1.13004,ES
 "Mad Cow Disease Spreads to Margate
 ",Margate,51.38132,1.38617,GB
 "Zika Strikes St. Petersburg
 ",St. Petersburg,27.77086,-82.67927,US
-"Will West Nile Virus vaccine help Parsons?
-",,,,
 "Will  Mad Cow Outbreak Reach Vienna?
 ",Vienna,48.20849,16.37208,AT
 "More Patients in Orange are Getting Diagnosed with Chickenpox
@@ -513,8 +465,6 @@ headline,cities,latitude,longitude,countrycode
 ",Richmond,-37.81819,145.00176,AU
 "Meningitis re-emerges in Medina
 ",Medina,21.14972,-101.6225,MX
-"Yulee takes  hit from Spreading Sickness
-",,,,
 "Four cases  Zika in Hidalgo County
 ",Hidalgo,25.97205,-100.45029,MX
 "Zika symptoms spotted in Hollywood
@@ -539,12 +489,8 @@ headline,cities,latitude,longitude,countrycode
 ",Dhaka,23.7104,90.40744,BD
 "Albany Residents Recieve Respiratory Syncytial Virus vaccine
 ",Albany,-35.02692,117.88369,AU
-"The Spread  Chikungunya in Davidson has been Confirmed
-",,,,
 "Rotavirus Vaccine is now Required in Starkville
 ",Starkville,33.45049,-88.81961,US
-"Schools in Yaounde Closed Due to Mumps Outbreak
-",,,,
 "More people in Nadi are infected with HIV every year
 ",Nadi,-17.80309,177.41617,FJ
 "Tocumen tests new cure for Hepatitis A
@@ -571,10 +517,6 @@ headline,cities,latitude,longitude,countrycode
 ",Salem,11.65376,78.15538,IN
 "St. Catharines Patient in Critical Condition after Contracting Dengue
 ",St. Catharines,43.17126,-79.24267,CA
-"Zika case reported in Los Fresnos
-",,,,
-"More Zika patients reported in Camacari
-",,,,
 "Outbreak  Zika in Pasig City
 ",Pasig City,14.58691,121.0614,PH
 "Zika Troubles come to Kampong Cham
@@ -615,8 +557,6 @@ headline,cities,latitude,longitude,countrycode
 ",Glasgow,55.86515,-4.25763,GB
 "Phoenix Residents Recieve Syphilis vaccine
 ",Phoenix,33.44838,-112.07404,US
-"More people in Boucau are infected with HIV every year
-",,,,
 "Spanish flu spreading in Madrid
 ",Madrid,4.73245,-74.26419,CO
 "Rabies Hits Madrid
@@ -653,8 +593,6 @@ headline,cities,latitude,longitude,countrycode
 ",Montpellier,43.61092,3.87723,FR
 "Praia tests new cure for Pneumonia
 ",Praia,14.93152,-23.51254,CV
-"Bronchitis Outbreak in Manhasset
-",,,,
 "Lower Hospitalization in Lakewood after Hepatitis B Vaccine becomes Mandatory
 ",Lakewood,40.09789,-74.21764,US
 "Zika spreads to Kuching
@@ -677,14 +615,8 @@ headline,cities,latitude,longitude,countrycode
 ",Jacobina,-11.18143,-40.51372,BR
 "Bridgeport authorities confirmed  spread  West Nile Virus
 ",Bridgeport,41.83809,-87.65116,US
-"Zika Troubles come to Padre Las Casas
-",,,,
 "Measles Vaccine is now Required in Wailuku
 ",Wailuku,20.89133,-156.50604,US
-"Zika symptoms spotted in Surat
-",,,,
-"Rumors about Influenza Spreading in Dobbs Ferry have been Refuted
-",,,,
 "More contaminated cattle reported in Bedford
 ",Bedford,52.13459,-0.46632,GB
 "Zika in Tamarac!
@@ -703,10 +635,6 @@ headline,cities,latitude,longitude,countrycode
 ",Stockholm,59.33258,18.0649,SE
 "More people in Berkeley are infected with Swine Flu every year
 ",Berkeley,37.87159,-122.27275,US
-"Outbreak  Zika in Destin
-",,,,
-"Zika only  latest mosquito-borne threat to New Orleans
-",borne,,,
 "Will Swine Flu vaccine help Annapolis?
 ",Annapolis,38.97845,-76.49218,US
 "Lower Hospitalization in Monroe after Hepatitis D Vaccine becomes Mandatory
@@ -731,16 +659,12 @@ headline,cities,latitude,longitude,countrycode
 ",Newcastle,-32.92953,151.7801,AU
 "Erie County sets Zika traps
 ",Erie,42.12922,-80.08506,US
-"More people in Huron are infected with Dengue every year
-",,,,
 "How to Avoid Norovirus in Greenville
 ",Greenville,5.01133,-9.0388,LR
 "More Zika patients reported in Calumpang
 ",Calumpang,14.6228,121.0897,PH
 "Zika symptoms spotted in Quisqueya
 ",Quisqueya,18.55542,-69.40814,DO
-"Rumors about Hepatitis D Spreading in Montreal have been Refuted
-",,,,
 "Zika symptoms spotted in Fortaleza
 ",Fortaleza,-3.71722,-38.54306,BR
 "Rumors about Bronchitis spreading in Bundaberg have been refuted
@@ -755,10 +679,6 @@ headline,cities,latitude,longitude,countrycode
 ",Stillwater,36.11561,-97.05837,US
 "The Spread  Meningitis in Imperial has been Confirmed
 ",Imperial,-13.05927,-76.35269,PE
-"Will Tuberculosis vaccine help Cherry Creek?
-",,,,
-"Gympie Patient in Critical Condition after Contracting Chlamydia
-",,,,
 "Case  Measles Reported in Springdale
 ",Springdale,36.18674,-94.12881,US
 "Norwalk Encounters Severe Symptoms  Malaria
@@ -857,8 +777,6 @@ headline,cities,latitude,longitude,countrycode
 ",Damascus,33.5102,36.29128,SY
 "Lower Hospitalization in Pekanbaru after Rotavirus Vaccine becomes Mandatory
 ",Pekanbaru,0.51667,101.44167,ID
-"Spike  Meningitis Cases in Druid Hills
-",,,,
 "Schools in Bentonville Closed Due to Hepatitis B Outbreak
 ",Bentonville,36.37285,-94.20882,US
 "Hepatitis E Hits Hammond
@@ -917,16 +835,10 @@ headline,cities,latitude,longitude,countrycode
 ",Arvada,39.80276,-105.08748,US
 "Spike  Syphilis Cases in West Monroe
 ",Monroe,32.50931,-92.1193,US
-"More Zika patients reported in Ribeirao Preto
-",,,,
-"Martinsville tests new cure for Measles
-",,,,
 "Deerfield tests new cure for Measles
 ",Deerfield,42.17114,-87.84451,US
 "Contaminated Meat Brings Trouble for Bonn Farmers
 ",Bonn,50.73438,7.09549,DE
-"More Patients in Magnolia are Getting Diagnosed with Malaria
-",,,,
 "Hepatitis A re-emerges in Foster City
 ",Foster City,37.55855,-122.27108,US
 "How to Avoid Tuberculosis in Santa Monica
@@ -959,12 +871,8 @@ headline,cities,latitude,longitude,countrycode
 ",Vineland,39.48623,-75.02573,US
 "Sulu, Zamboanga brace for Zika
 ",Zamboanga,6.91028,122.07389,PH
-"More Zika patients reported in Custodia
-",,,,
 "Tupelo Residents Recieve Syphilis vaccine
 ",Tupelo,34.25807,-88.70464,US
-"Rumors about Syphilis spreading in Penal have been refuted
-",,,,
 "Spanish Flu Outbreak in Lisbon
 ",Lisbon,38.71667,-9.13333,PT
 "Spanish Flu Spreading through Madrid
@@ -1015,10 +923,6 @@ headline,cities,latitude,longitude,countrycode
 ",North Vancouver,49.31636,-123.06934,CA
 "Authorities are Worried about  Spread  Chickenpox in Hemet
 ",Hemet,33.74761,-116.97307,US
-"Fort Belvoir tests new cure for Hepatitis C
-",,,,
-"More people in Oak Brook are infected with Respiratory Syncytial Virus every year
-",,,,
 "Rumors about Hepatitis C spreading in Darien have been refuted
 ",Darien,3.93135,-76.48481,CO
 "The Spread  West Nile Virus in Fairfield has been Confirmed
@@ -1031,24 +935,14 @@ headline,cities,latitude,longitude,countrycode
 ",Wuhan,30.58333,114.26667,CN
 "Zika spreads to San Luis Potosi
 ",San Luis,-33.29501,-66.33563,AR
-"Outbreak  Zika in Hutchins
-",,,,
 "Spike  Norovirus Cases in Canberra
 ",Canberra,-35.28346,149.12807,AU
 "Zika Troubles come to Greater Noida
 ",Greater Noida,28.49615,77.53601,IN
 "Lower Hospitalization in Palm Springs after Hepatitis A Vaccine becomes Mandatory
 ",Palm Springs,26.6359,-80.09615,US
-"Longwood volunteers spreading Zika awareness
-",,,,
 "Outbreak  Zika in Leesburg
 ",Leesburg,28.81082,-81.87786,US
-"Authorities are Worried about  Spread  Tuberculosis in Cantu
-",,,,
-"Zika symptoms spotted in Quixere
-",,,,
-"New medicine wipes out HIV in Kihei
-",,,,
 "Sangre Grande Residents Recieve Gonorrhea vaccine
 ",Sangre Grande,10.58705,-61.13008,TT
 "Outbreak  Zika in Colombo
@@ -1077,8 +971,6 @@ headline,cities,latitude,longitude,countrycode
 ",Danvers,42.57509,-70.93005,US
 "Authorities  Miami
 ",Miami,25.77427,-80.19366,US
-"Zika case reported in Medellin
-",,,,
 "Spike  Tuberculosis Cases in Albuquerque
 ",Albuquerque,35.08449,-106.65114,US
 "More people in Cranford are infected with Hepatitis A every year
@@ -1097,8 +989,6 @@ headline,cities,latitude,longitude,countrycode
 ",Chanthaburi,12.60961,102.10447,TH
 "Lawrenceville is infested with Dengue
 ",Lawrenceville,33.95621,-83.98796,US
-"Zika Reported in Ciudad Acuna
-",,,,
 "Zika case reported in Limoeiro
 ",Limoeiro,-7.87472,-35.45028,BR
 "Ibadan tests new cure for Malaria
@@ -1117,8 +1007,6 @@ headline,cities,latitude,longitude,countrycode
 ",Canton,34.23676,-84.49076,US
 "Ronkonkoma is infested with Chickenpox
 ",Ronkonkoma,40.81538,-73.11233,US
-"Kedougou tests new cure for Hepatitis C
-",,,,
 "Gonorrhea Exposure in Norwalk
 ",Norwalk,41.1176,-73.4079,US
 "How to Avoid Rhinovirus in Medford
@@ -1133,8 +1021,6 @@ headline,cities,latitude,longitude,countrycode
 ",Edinburgh,55.95206,-3.19648,GB
 "Duluth Patient in Critical Condition after Contracting Rotavirus
 ",Duluth,34.00288,-84.14464,US
-"Measles Hits Davos
-",,,,
 "Norfolk tests new cure for Herpes
 ",Norfolk,36.84681,-76.28522,US
 "More Zika patients reported in Botucatu
@@ -1163,14 +1049,10 @@ headline,cities,latitude,longitude,countrycode
 ",Morristown,36.21398,-83.29489,US
 "Mumps Outbreak in Joplin
 ",Joplin,37.08423,-94.51328,US
-"Spike  Hepatitis E Cases in Morehead City
-",,,,
 "Authorities are Worried about  Spread  Mumps in Corona
 ",Corona,40.74705,-73.86014,US
 "Schools in Danville Closed Due to Tuberculosis Outbreak
 ",Danville,37.64563,-84.77217,US
-"Outbreak  Zika in Alvorada
-",,,,
 "Marquette tests new cure for Hepatitis A
 ",Marquette,46.54354,-87.39542,US
 "Norovirus Vaccine is now Required in Anaheim
@@ -1195,10 +1077,6 @@ headline,cities,latitude,longitude,countrycode
 ",Hauppauge,40.82565,-73.20261,US
 "Bronchitis Keeps Spreading in Hayward
 ",Hayward,37.66882,-122.0808,US
-"Schools in Coamo Closed Due to Rhinovirus Outbreak
-",,,,
-"Zika arrives in Dangriga
-",,,,
 "Zika spreads to Plant City
 ",Plant City,28.01888,-82.11469,US
 "Chlamydia Exposure in Sanaa
@@ -1207,8 +1085,6 @@ headline,cities,latitude,longitude,countrycode
 ",North Miami,25.89009,-80.18671,US
 "More Patients in Kensington are Getting Diagnosed with Varicella
 ",Kensington,-33.92019,151.22241,AU
-"More Patients in Maynard are Getting Diagnosed with Syphilis
-",,,,
 "Case  West Nile Virus Reported in Riverside
 ",Riverside,39.77978,-84.1241,US
 "Northfield Encounters Severe Symptoms  Herpes
@@ -1241,8 +1117,6 @@ headline,cities,latitude,longitude,countrycode
 ",Delray Beach,26.46146,-80.07282,US
 "How to Avoid Chikungunya in Hampton
 ",Hampton,51.41334,-0.36701,GB
-"Zika Reported in Sao Jose
-",,,,
 "Case  Norovirus Reported in Stratford
 ",Stratford,43.36679,-80.94972,CA
 "How to Avoid Hepatitis E in South Bend
@@ -1255,14 +1129,8 @@ headline,cities,latitude,longitude,countrycode
 ",Suzhou,33.63611,116.97889,CN
 "Malaria Vaccine is now Required in Elyria
 ",Elyria,41.36838,-82.10765,US
-"Zika case reported in Antioquia
-",,,,
 "Case  Swine Flu Reported in Tbilisi
 ",Tbilisi,41.69411,44.83368,GE
-"Chikungunya has not Left Pismo Beach
-",,,,
-"Zika spreads to La Joya
-",,,,
 "Influenza Keeps Spreading in Suffolk
 ",Suffolk,36.72836,-76.58496,US
 "More people in Allentown are infected with Chlamydia every year
